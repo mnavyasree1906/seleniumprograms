@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c62a9db-91c7-49f2-82ff-3591496dd9bf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2rTrEGpvJXnmeTxNoXz0mc8fzP3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.D:/SeleniumJan2025/SeleniumDec2024/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GoogleSuggestionsTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HerokuAppFramesTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TwoPluginSuggestionsTest.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/HerokuApp&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SeleniumJan2025\SeleniumDec2024\src\test\java\testngprograms" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SeleniumJan2025\SeleniumDec2024" />
+      <recent name="D:\SeleniumJan2025\SeleniumDec2024\seleniumprograms" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/SeleniumJan2025/SeleniumDec2024/testng.xml">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="e66df044-2ad7-4e42-8c54-d59de2ce9c17" />
+      <option name="artifact" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="functionHostArguments" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/SeleniumJan2025/SeleniumDec2024/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumDec2024" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleSuggestionsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumDec2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testngprograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testngprograms" />
+      <option name="MAIN_CLASS_NAME" value="testngprograms.GoogleSuggestionsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HerokuAppFramesTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumDec2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testngprograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testngprograms" />
+      <option name="MAIN_CLASS_NAME" value="testngprograms.HerokuAppFramesTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoPluginSuggestionsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumDec2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testngprograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testngprograms" />
+      <option name="MAIN_CLASS_NAME" value="testngprograms.TwoPluginSuggestionsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/SeleniumJan2025/SeleniumDec2024/testng.xml" />
+        <item itemvalue="TestNG.HerokuAppFramesTest" />
+        <item itemvalue="TestNG.GoogleSuggestionsTest" />
+        <item itemvalue="TestNG.TwoPluginSuggestionsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c62a9db-91c7-49f2-82ff-3591496dd9bf" name="Changes" comment="" />
+      <created>1736593795427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736593795427</updated>
+    </task>
+    <servers />
+  </component>
+</project>

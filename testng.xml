@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="HerokuAppTestSuite">
+    <test name="HerokuAppTests">
+        <parameter name="browser" value="Edge"/> <!-- Add this line to specify the browser -->
+        <classes>
+            <class name="testngprograms.HerokuAppFramesTest"/>
+            <class name="testngprograms.HerokoAppLoginTest"/>
+            <class name="testngprograms.HerokuAppAlertTest"/>
+        </classes>
+    </test>
+</suite>
