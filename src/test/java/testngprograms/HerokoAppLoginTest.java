@@ -61,7 +61,7 @@ public class HerokoAppLoginTest {
 
     @Test
     public void invalidUserNameValidPswd() {
-        doLogin("Harshini", "SuperSecretPassword!");
+        doLogin("Navya", "SuperSecretPassword!");
         validateMessage("Your username is invalid!");
     }
 
